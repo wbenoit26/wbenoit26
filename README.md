@@ -1,4 +1,4 @@
-I'm a 2nd year Physics PhD student at UMN. I'm currently researching applications of machine learning algorithms for analysis of gravitational wave data.
+I'm a 4th year Physics PhD student at UMN, currently researching applications of machine learning algorithms for detection of gravitational waves.
 
 <!---
 wbenoit26/wbenoit26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
