@@ -1,4 +1,4 @@
-I'm a Post-doctoral associate at MIT, currently researching applications of machine learning algorithms for detection of gravitational waves.
+I'm a post-doctoral associate at MIT, currently researching applications of machine learning algorithms for detection of gravitational waves.
 
 <!---
 wbenoit26/wbenoit26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
